@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="functions.c" />
     <ClCompile Include="theatre.c" />
   </ItemGroup>
   <ItemGroup>

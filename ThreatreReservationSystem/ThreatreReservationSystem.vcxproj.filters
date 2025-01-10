@@ -18,6 +18,9 @@
     <ClCompile Include="theatre.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="functions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="theatre.h">
